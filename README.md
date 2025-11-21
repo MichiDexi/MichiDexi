@@ -6,4 +6,4 @@ I’m currently learning Rust
 
 I’m looking for help with learning graphics
 
-My end goal is to learn Rust + Vulkan and make my dream game real
+My end goal is to learn Rust + wgpu and make my dream game real
