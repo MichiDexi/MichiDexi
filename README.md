@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there
 
-I’m currently working on an Undertale remake fully working in the terminal
+I’m currently working on a lot of things at the same time, and I kinda don't wanna update this every 2 seconds.
 
-I’m currently learning Rust
+I've almost perfected Rust, my only problem is async and graphics.
 
-I’m looking for help with learning graphics
+I'll try OpenGL soon, but the final destination is wgpu.
 
-My end goal is to learn Rust + wgpu and make my dream game real
+I can't move directly to wgpu, because winit has problems with Wayland.
